@@ -1,0 +1,6 @@
+mantainers:
+  grants:
+  - add_users_to_group
+  - create_group
+  users:
+  - user1

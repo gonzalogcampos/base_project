@@ -1,0 +1,16 @@
+# Data base
+db_folder: ../config/db
+
+
+# Log
+log_format: "TPV | {date} {time} | {lvl}: {msg}"
+log_format_date: "%Y%m%d"
+log_format_time: "%H%M%S"
+log_level_save: 3
+log_level_print: 3
+log_filepath: ../log/log_{date}.txt
+log_level_list:
+  - ERROR
+  - WARNING
+  - INFO
+  - DEBUG

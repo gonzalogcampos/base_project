@@ -1,0 +1,9 @@
+admin:
+  grants:
+  - add_grants
+  - revoke_grants
+  password: 79941e9b1818bf3b4e3e1873a26027a5
+user1:
+  grants:
+  - add_grants
+  password: f2c153ccc81a51c7a156163a58c78fd6

@@ -1,0 +1,507 @@
+TPV | 20230415 172326 | ERROR: This is a debug test
+TPV | 20230415 172326 | WARNING: This is a info test
+TPV | 20230415 172326 | INFO: This is a warning test
+TPV | 20230415 172326 | DEBUG: This is a error test
+TPV | 20230415 173756 | INFO: Set attr if forbidden in database
+TPV | 20230415 173756 | ERROR: DataBase works, both variables contain the same instance.
+TPV | 20230415 173810 | INFO: Set attr if forbidden in database
+TPV | 20230415 173810 | ERROR: DataBase works, both variables contain the same instance.
+TPV | 20230415 173838 | DEBUG: This is a debug test
+TPV | 20230415 173838 | INFO: This is a info test
+TPV | 20230415 173838 | WARNING: This is a warning test
+TPV | 20230415 173838 | ERROR: This is a error test
+TPV | 20230415 173850 | WARNING: Set attr if forbidden in database
+TPV | 20230415 173850 | DEBUG: DataBase works, both variables contain the same instance.
+TPV | 20230415 173906 | WARNING: Set attr if forbidden in database
+TPV | 20230415 173906 | INFO: DataBase works, both variables contain the same instance.
+TPV | 20230415 175032 | WARNING: Set attr if forbidden in database
+TPV | 20230415 175059 | WARNING: Set attr if forbidden in database
+TPV | 20230415 175141 | WARNING: Set attr if forbidden in database
+TPV | 20230415 175435 | WARNING: Set attr if forbidden in database
+TPV | 20230415 175444 | INFO: DataBase works, both variables contain the same instance.
+TPV | 20230415 175507 | WARNING: Set attr if forbidden in database
+TPV | 20230415 175507 | DEBUG: {0: {'name': 'Cocacola', 'short_name': 'cocacola', 'price': 1.5}, 1: {'name': 'Fanta', 'short_name': 'agua', 'price': 1.5}, 2: {'name': 'Agua', 'short_name': 'agua', 'price': 2.0}}
+TPV | 20230415 175507 | INFO: DataBase works, both variables contain the same instance.
+TPV | 20230415 175732 | WARNING: Set attr if forbidden in database
+TPV | 20230415 175732 | DEBUG: {0: {'name': 'Cocacola', 'short_name': 'cocacola', 'price': 1.5}, 1: {'name': 'Fanta', 'short_name': 'agua', 'price': 1.5}, 2: {'name': 'Agua', 'short_name': 'agua', 'price': 2.0}}
+TPV | 20230415 175732 | INFO: DataBase works, both variables contain the same instance.
+TPV | 20230415 175800 | WARNING: Set attr if forbidden in database
+TPV | 20230415 175800 | DEBUG: {0: {'name': 'Cocacola', 'short_name': 'cocacola', 'price': 1.5}, 1: {'name': 'Fanta', 'short_name': 'agua', 'price': 1.5}, 2: {'name': 'Agua', 'short_name': 'agua', 'price': 2.0}}
+TPV | 20230415 175800 | INFO: DataBase works, both variables contain the same instance.
+TPV | 20230415 180325 | WARNING: Set attr if forbidden in database
+TPV | 20230415 180328 | DEBUG: {0: {'name': 'Cocacola', 'short_name': 'cocacola', 'price': 1.5}, 1: {'name': 'Fanta', 'short_name': 'agua', 'price': 1.5}, 2: {'name': 'Agua', 'short_name': 'agua', 'price': 2.0}}
+TPV | 20230415 192420 | DEBUG: User: None
+TPV | 20230415 192602 | DEBUG: User: None
+TPV | 20230415 192602 | INFO: Table users not in database, creating one.
+TPV | 20230415 192602 | INFO: Adding to table users item gonzalo.garcia: {'password': <md5 _hashlib.HASH object @ 0x000001F2901AAD30>}
+TPV | 20230415 192659 | DEBUG: User: None
+TPV | 20230415 192841 | DEBUG: User: None
+TPV | 20230415 192852 | WARNING: Set attr if forbidden in database
+TPV | 20230415 192852 | DEBUG: {}
+TPV | 20230415 192852 | INFO: DataBase works, both variables contain the same instance.
+TPV | 20230415 192901 | DEBUG: User: None
+TPV | 20230415 193440 | WARNING: Set attr if forbidden in database
+TPV | 20230415 193440 | DEBUG: {0: {'name': 'Cocacola', 'price': 1.5, 'short_name': 'cocacola'}, 1: {'name': 'Fanta', 'price': 1.5, 'short_name': 'agua'}, 2: {'name': 'Agua', 'price': 2.0, 'short_name': 'agua'}, 3: {'name': 'Cerveza', 'price': 1.5, 'short_name': 'cerveza'}}
+TPV | 20230415 193440 | INFO: DataBase works, both variables contain the same instance.
+TPV | 20230415 193452 | DEBUG: User: None
+TPV | 20230415 193452 | INFO: Table users not in database, creating one.
+TPV | 20230415 193452 | INFO: Adding to table users item gonzalo.garcia: {'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 193452 | DEBUG: User: None
+TPV | 20230415 193452 | WARNING: Wrong user gonzalo.garcia.
+TPV | 20230415 193452 | DEBUG: User: None
+TPV | 20230415 193452 | WARNING: Wrong user gonzalo.garcia.
+TPV | 20230415 193452 | DEBUG: User: None
+TPV | 20230415 193452 | DEBUG: User: None
+TPV | 20230415 193452 | INFO: Adding to table users item admin: {'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 193618 | DEBUG: User: None
+TPV | 20230415 193618 | ERROR: Table already contains id not in database, creating one.
+TPV | 20230415 193618 | DEBUG: User: None
+TPV | 20230415 193623 | WARNING: Wrong user gonzalo.garcia.
+TPV | 20230415 193623 | DEBUG: User: None
+TPV | 20230415 193718 | DEBUG: User: None
+TPV | 20230415 193718 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 193718 | DEBUG: User: None
+TPV | 20230415 193718 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 193718 | DEBUG: User: None
+TPV | 20230415 193718 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 193718 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 193718 | DEBUG: User: None
+TPV | 20230415 193718 | WARNING: User admin already exists.
+TPV | 20230415 195654 | DEBUG: User: None
+TPV | 20230415 195654 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 195654 | DEBUG: User: None
+TPV | 20230415 195654 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 195654 | DEBUG: User: None
+TPV | 20230415 195654 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 195654 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 195654 | DEBUG: User: None
+TPV | 20230415 195654 | WARNING: User admin already exists.
+TPV | 20230415 195657 | DEBUG: This is a debug test
+TPV | 20230415 195657 | INFO: This is a info test
+TPV | 20230415 195657 | WARNING: This is a warning test
+TPV | 20230415 195657 | ERROR: This is a error test
+TPV | 20230415 195737 | DEBUG: ../config/db
+TPV | 20230415 195742 | WARNING: Set attr if forbidden in database
+TPV | 20230415 195742 | DEBUG: {0: {'name': 'Cocacola', 'price': 1.5, 'short_name': 'cocacola'}, 1: {'name': 'Fanta', 'price': 1.5, 'short_name': 'agua'}, 2: {'name': 'Agua', 'price': 2.0, 'short_name': 'agua'}, 3: {'name': 'Cerveza', 'price': 1.5, 'short_name': 'cerveza'}}
+TPV | 20230415 195742 | INFO: DataBase works, both variables contain the same instance.
+TPV | 20230415 202033 | DEBUG: User: None
+TPV | 20230415 202033 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 202033 | DEBUG: User: None
+TPV | 20230415 202033 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 202033 | DEBUG: User: None
+TPV | 20230415 202033 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 202033 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 202033 | DEBUG: User: None
+TPV | 20230415 202033 | WARNING: User admin already exists.
+TPV | 20230415 202033 | INFO: Editing table users item gonzalo.garcia: {'password': 'f2c153ccc81a51c7a156163a58c78fd6', 'grants': {'add_grants'}}
+TPV | 20230415 202033 | INFO: Editing table users item admin: {'password': '79941e9b1818bf3b4e3e1873a26027a5', 'grants': {'add_grants'}}
+TPV | 20230415 202105 | DEBUG: User: None
+TPV | 20230415 202105 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 202105 | DEBUG: User: None
+TPV | 20230415 202105 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 202105 | DEBUG: User: None
+TPV | 20230415 202105 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 202105 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 202105 | DEBUG: User: None
+TPV | 20230415 202105 | WARNING: User admin already exists.
+TPV | 20230415 202105 | INFO: Editing table users item gonzalo.garcia: {'password': 'f2c153ccc81a51c7a156163a58c78fd6', 'grants': ['add_grants']}
+TPV | 20230415 202105 | INFO: Editing table users item admin: {'password': '79941e9b1818bf3b4e3e1873a26027a5', 'grants': ['add_grants']}
+TPV | 20230415 202224 | DEBUG: User: None
+TPV | 20230415 202224 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 202224 | DEBUG: User: None
+TPV | 20230415 202229 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 202229 | DEBUG: User: None
+TPV | 20230415 202229 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 202229 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 202229 | DEBUG: User: None
+TPV | 20230415 202229 | WARNING: User admin already exists.
+TPV | 20230415 202249 | DEBUG: User: None
+TPV | 20230415 202249 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 202249 | DEBUG: User: None
+TPV | 20230415 202249 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 202249 | DEBUG: User: None
+TPV | 20230415 202249 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 202249 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 202249 | DEBUG: User: None
+TPV | 20230415 202249 | WARNING: User admin already exists.
+TPV | 20230415 202410 | DEBUG: User: None
+TPV | 20230415 202410 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 202410 | DEBUG: User: None
+TPV | 20230415 202410 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 202410 | DEBUG: User: None
+TPV | 20230415 202410 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 202410 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 202410 | DEBUG: User: None
+TPV | 20230415 202410 | WARNING: User admin already exists.
+TPV | 20230415 202759 | DEBUG: User: None
+TPV | 20230415 202759 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 202800 | DEBUG: User: None
+TPV | 20230415 202800 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 202800 | DEBUG: User: None
+TPV | 20230415 202800 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 202800 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 202800 | DEBUG: User: None
+TPV | 20230415 202800 | WARNING: User admin already exists.
+TPV | 20230415 202846 | DEBUG: User: None
+TPV | 20230415 202846 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 202846 | DEBUG: User: None
+TPV | 20230415 202846 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 202846 | DEBUG: User: None
+TPV | 20230415 202846 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 202846 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 202846 | DEBUG: User: None
+TPV | 20230415 202846 | WARNING: User admin already exists.
+TPV | 20230415 202947 | DEBUG: User: None
+TPV | 20230415 202947 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 202947 | DEBUG: User: None
+TPV | 20230415 202947 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 202947 | DEBUG: User: None
+TPV | 20230415 202947 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 202947 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 202947 | DEBUG: User: None
+TPV | 20230415 202947 | WARNING: User admin already exists.
+TPV | 20230415 202958 | DEBUG: User: None
+TPV | 20230415 202958 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 202958 | DEBUG: User: None
+TPV | 20230415 202958 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 202958 | DEBUG: User: None
+TPV | 20230415 202958 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 202958 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 202958 | DEBUG: User: None
+TPV | 20230415 202958 | WARNING: User admin already exists.
+TPV | 20230415 202958 | ERROR: No grants for user None to do add_grants
+TPV | 20230415 203108 | DEBUG: User: None
+TPV | 20230415 203108 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 203108 | DEBUG: User: None
+TPV | 20230415 203108 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 203108 | DEBUG: User: None
+TPV | 20230415 203108 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 203108 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 203108 | ERROR: No grants for user gonzalo.garcia to do add_grants
+TPV | 20230415 203108 | DEBUG: User: None
+TPV | 20230415 203108 | WARNING: User admin already exists.
+TPV | 20230415 203708 | DEBUG: User: None
+TPV | 20230415 203708 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 203708 | DEBUG: User: None
+TPV | 20230415 203708 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 203708 | DEBUG: User: None
+TPV | 20230415 203708 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 203708 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 203708 | DEBUG: User: None
+TPV | 20230415 203708 | WARNING: User admin already exists.
+TPV | 20230415 203708 | INFO: User logged admin.
+TPV | 20230415 203708 | INFO: Adding grants to users: ['admin'] and groups: [] to do ['add_grants']
+TPV | 20230415 203708 | INFO: Editing table users item admin: {'password': '79941e9b1818bf3b4e3e1873a26027a5', 'grants': ['add_grants']}
+TPV | 20230415 203725 | DEBUG: User: None
+TPV | 20230415 203725 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 203725 | DEBUG: User: None
+TPV | 20230415 203725 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 203725 | DEBUG: User: None
+TPV | 20230415 203725 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 203725 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 203725 | DEBUG: User: None
+TPV | 20230415 203725 | WARNING: User admin already exists.
+TPV | 20230415 203725 | INFO: User logged admin.
+TPV | 20230415 203725 | INFO: Adding grants to users: ['admin'] and groups: [] to do ['add_grants']
+TPV | 20230415 203725 | INFO: Editing table users item admin: {'password': '79941e9b1818bf3b4e3e1873a26027a5', 'grants': ['add_grants']}
+TPV | 20230415 203755 | DEBUG: User: None
+TPV | 20230415 203755 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 203755 | DEBUG: User: None
+TPV | 20230415 203755 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 203755 | DEBUG: User: None
+TPV | 20230415 203755 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 203755 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 203755 | DEBUG: User: None
+TPV | 20230415 203755 | WARNING: User admin already exists.
+TPV | 20230415 203755 | INFO: User logged admin.
+TPV | 20230415 203755 | INFO: Adding grants to users: ['admin'] and groups: [] to do ['add_grants']
+TPV | 20230415 203755 | INFO: Editing table users item admin: {'grants': ['add_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 203817 | DEBUG: User: None
+TPV | 20230415 203817 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 203817 | DEBUG: User: None
+TPV | 20230415 203817 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 203817 | DEBUG: User: None
+TPV | 20230415 203817 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 203817 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 203817 | ERROR: No grants for user gonzalo.garcia to do add_grants
+TPV | 20230415 203817 | DEBUG: User: None
+TPV | 20230415 203817 | WARNING: User admin already exists.
+TPV | 20230415 203817 | INFO: User logged admin.
+TPV | 20230415 203817 | INFO: Adding grants to users: ['admin'] and groups: [] to do ['add_grants']
+TPV | 20230415 203817 | INFO: Editing table users item admin: {'grants': ['add_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 203838 | DEBUG: User: None
+TPV | 20230415 203838 | WARNING: User gonzalo.garcia already exists.
+TPV | 20230415 203838 | DEBUG: User: None
+TPV | 20230415 203838 | WARNING: Login gonzalo.garcia with wrong password.
+TPV | 20230415 203838 | DEBUG: User: None
+TPV | 20230415 203838 | INFO: User logged gonzalo.garcia.
+TPV | 20230415 203838 | DEBUG: User: gonzalo.garcia
+TPV | 20230415 203838 | ERROR: No grants for user gonzalo.garcia to do add_grants
+TPV | 20230415 203838 | DEBUG: User: None
+TPV | 20230415 203838 | WARNING: User admin already exists.
+TPV | 20230415 203838 | INFO: User logged admin.
+TPV | 20230415 203838 | INFO: Adding grants to users: ['admin'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 203838 | INFO: Editing table users item admin: {'grants': ['add_grants', 'revoke_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 204201 | DEBUG: User: None
+TPV | 20230415 204201 | INFO: Adding to table users item user1: {'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 204201 | DEBUG: User: None
+TPV | 20230415 204201 | WARNING: Login user1 with wrong password.
+TPV | 20230415 204201 | DEBUG: User: None
+TPV | 20230415 204201 | INFO: User logged user1.
+TPV | 20230415 204201 | DEBUG: User: user1
+TPV | 20230415 204201 | ERROR: No grants for user user1 to do add_grants
+TPV | 20230415 204201 | ERROR: No grants for user user1 to do add_grants
+TPV | 20230415 204201 | DEBUG: User: None
+TPV | 20230415 204201 | WARNING: User admin already exists.
+TPV | 20230415 204201 | INFO: User logged admin.
+TPV | 20230415 204201 | INFO: Revoking grants to users: ['admin'] and groups: [] to do {'revoke_grants', 'add_grants'}
+TPV | 20230415 204201 | INFO: Editing table users item admin: {'grants': [], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 204219 | DEBUG: User: None
+TPV | 20230415 204219 | WARNING: User user1 already exists.
+TPV | 20230415 204219 | DEBUG: User: None
+TPV | 20230415 204219 | WARNING: Login user1 with wrong password.
+TPV | 20230415 204219 | DEBUG: User: None
+TPV | 20230415 204219 | INFO: User logged user1.
+TPV | 20230415 204219 | DEBUG: User: user1
+TPV | 20230415 204219 | ERROR: No grants for user user1 to do add_grants
+TPV | 20230415 204219 | ERROR: No grants for user user1 to do add_grants
+TPV | 20230415 204219 | DEBUG: User: None
+TPV | 20230415 204219 | WARNING: User admin already exists.
+TPV | 20230415 204219 | INFO: User logged admin.
+TPV | 20230415 204219 | ERROR: No grants for user admin to do revoke_grants
+TPV | 20230415 204305 | DEBUG: User: None
+TPV | 20230415 204305 | WARNING: User user1 already exists.
+TPV | 20230415 204305 | DEBUG: User: None
+TPV | 20230415 204305 | WARNING: Login user1 with wrong password.
+TPV | 20230415 204305 | DEBUG: User: None
+TPV | 20230415 204305 | INFO: User logged user1.
+TPV | 20230415 204305 | DEBUG: User: user1
+TPV | 20230415 204305 | DEBUG: User: None
+TPV | 20230415 204305 | WARNING: User admin already exists.
+TPV | 20230415 204305 | INFO: User logged admin.
+TPV | 20230415 204305 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 204305 | INFO: Editing table users item admin: {'grants': ['revoke_grants', 'add_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 204305 | INFO: Editing table users item user1: {'password': 'f2c153ccc81a51c7a156163a58c78fd6', 'grants': ['revoke_grants', 'add_grants']}
+TPV | 20230415 204305 | INFO: Adding grants to users: ['user1'] and groups: [] to do ['revoke_grants']
+TPV | 20230415 204305 | INFO: Editing table users item user1: {'password': 'f2c153ccc81a51c7a156163a58c78fd6', 'grants': ['revoke_grants', 'add_grants']}
+TPV | 20230415 204329 | DEBUG: User: None
+TPV | 20230415 204329 | WARNING: User user1 already exists.
+TPV | 20230415 204329 | DEBUG: User: None
+TPV | 20230415 204329 | WARNING: Login user1 with wrong password.
+TPV | 20230415 204329 | DEBUG: User: None
+TPV | 20230415 204329 | INFO: User logged user1.
+TPV | 20230415 204329 | DEBUG: User: user1
+TPV | 20230415 204329 | DEBUG: User: None
+TPV | 20230415 204329 | WARNING: User admin already exists.
+TPV | 20230415 204329 | INFO: User logged admin.
+TPV | 20230415 204329 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 204329 | INFO: Editing table users item admin: {'grants': ['add_grants', 'revoke_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 204329 | INFO: Editing table users item user1: {'grants': ['add_grants', 'revoke_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 204329 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 204329 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 205901 | DEBUG: User: None
+TPV | 20230415 205901 | WARNING: User user1 already exists.
+TPV | 20230415 205901 | DEBUG: User: None
+TPV | 20230415 205901 | WARNING: Login user1 with wrong password.
+TPV | 20230415 205901 | DEBUG: User: None
+TPV | 20230415 205901 | INFO: User logged user1.
+TPV | 20230415 205901 | DEBUG: User: user1
+TPV | 20230415 205901 | DEBUG: User: None
+TPV | 20230415 205901 | WARNING: User admin already exists.
+TPV | 20230415 205901 | INFO: User logged admin.
+TPV | 20230415 205901 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 205901 | INFO: Editing table users item admin: {'grants': ['revoke_grants', 'add_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 205901 | INFO: Editing table users item user1: {'grants': ['revoke_grants', 'add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 205901 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 205901 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 205940 | DEBUG: User: None
+TPV | 20230415 205940 | WARNING: User user1 already exists.
+TPV | 20230415 205940 | DEBUG: User: None
+TPV | 20230415 205940 | WARNING: Login user1 with wrong password.
+TPV | 20230415 205940 | DEBUG: User: None
+TPV | 20230415 205940 | INFO: User logged user1.
+TPV | 20230415 205940 | DEBUG: User: user1
+TPV | 20230415 205940 | DEBUG: User: None
+TPV | 20230415 205940 | WARNING: User admin already exists.
+TPV | 20230415 205940 | INFO: User logged admin.
+TPV | 20230415 205940 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 205940 | INFO: Editing table users item admin: {'grants': ['revoke_grants', 'add_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 205940 | INFO: Editing table users item user1: {'grants': ['revoke_grants', 'add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 205940 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 205940 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 205940 | INFO: Table user_groups not in database, creating one.
+TPV | 20230415 210041 | DEBUG: User: None
+TPV | 20230415 210041 | WARNING: User user1 already exists.
+TPV | 20230415 210041 | DEBUG: User: None
+TPV | 20230415 210041 | WARNING: Login user1 with wrong password.
+TPV | 20230415 210041 | DEBUG: User: None
+TPV | 20230415 210041 | INFO: User logged user1.
+TPV | 20230415 210041 | DEBUG: User: user1
+TPV | 20230415 210041 | DEBUG: User: None
+TPV | 20230415 210041 | WARNING: User admin already exists.
+TPV | 20230415 210041 | INFO: User logged admin.
+TPV | 20230415 210041 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 210041 | INFO: Editing table users item admin: {'grants': ['revoke_grants', 'add_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 210041 | INFO: Editing table users item user1: {'grants': ['add_grants', 'revoke_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210041 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 210041 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210125 | DEBUG: User: None
+TPV | 20230415 210125 | WARNING: User user1 already exists.
+TPV | 20230415 210125 | DEBUG: User: None
+TPV | 20230415 210125 | WARNING: Login user1 with wrong password.
+TPV | 20230415 210125 | DEBUG: User: None
+TPV | 20230415 210125 | INFO: User logged user1.
+TPV | 20230415 210125 | DEBUG: User: user1
+TPV | 20230415 210125 | DEBUG: User: None
+TPV | 20230415 210125 | WARNING: User admin already exists.
+TPV | 20230415 210125 | INFO: User logged admin.
+TPV | 20230415 210125 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 210125 | INFO: Editing table users item admin: {'grants': ['revoke_grants', 'add_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 210125 | INFO: Editing table users item user1: {'grants': ['add_grants', 'revoke_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210125 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 210125 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210125 | INFO: Table user_groups not in database, creating one.
+TPV | 20230415 210125 | INFO: Adding to table user_groups item mantainers: {'users': []}
+TPV | 20230415 210135 | DEBUG: User: None
+TPV | 20230415 210135 | WARNING: User user1 already exists.
+TPV | 20230415 210135 | DEBUG: User: None
+TPV | 20230415 210135 | WARNING: Login user1 with wrong password.
+TPV | 20230415 210135 | DEBUG: User: None
+TPV | 20230415 210135 | INFO: User logged user1.
+TPV | 20230415 210135 | DEBUG: User: user1
+TPV | 20230415 210135 | DEBUG: User: None
+TPV | 20230415 210135 | WARNING: User admin already exists.
+TPV | 20230415 210135 | INFO: User logged admin.
+TPV | 20230415 210135 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 210135 | INFO: Editing table users item admin: {'grants': ['revoke_grants', 'add_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 210135 | INFO: Editing table users item user1: {'grants': ['revoke_grants', 'add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210135 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 210135 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210135 | ERROR: Table already contains id not in database, creating one.
+TPV | 20230415 210224 | DEBUG: User: None
+TPV | 20230415 210224 | WARNING: User user1 already exists.
+TPV | 20230415 210224 | DEBUG: User: None
+TPV | 20230415 210224 | WARNING: Login user1 with wrong password.
+TPV | 20230415 210224 | DEBUG: User: None
+TPV | 20230415 210224 | INFO: User logged user1.
+TPV | 20230415 210224 | DEBUG: User: user1
+TPV | 20230415 210224 | DEBUG: User: None
+TPV | 20230415 210224 | WARNING: User admin already exists.
+TPV | 20230415 210224 | INFO: User logged admin.
+TPV | 20230415 210224 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 210224 | INFO: Editing table users item admin: {'grants': ['add_grants', 'revoke_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 210224 | INFO: Editing table users item user1: {'grants': ['add_grants', 'revoke_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210224 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 210224 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210224 | ERROR: Table already contains id not in database, creating one.
+TPV | 20230415 210224 | INFO: Removing from table user_groups item mantainers.
+TPV | 20230415 210226 | DEBUG: User: None
+TPV | 20230415 210226 | WARNING: User user1 already exists.
+TPV | 20230415 210226 | DEBUG: User: None
+TPV | 20230415 210226 | WARNING: Login user1 with wrong password.
+TPV | 20230415 210226 | DEBUG: User: None
+TPV | 20230415 210226 | INFO: User logged user1.
+TPV | 20230415 210226 | DEBUG: User: user1
+TPV | 20230415 210226 | DEBUG: User: None
+TPV | 20230415 210226 | WARNING: User admin already exists.
+TPV | 20230415 210226 | INFO: User logged admin.
+TPV | 20230415 210226 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 210226 | INFO: Editing table users item admin: {'grants': ['add_grants', 'revoke_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 210226 | INFO: Editing table users item user1: {'grants': ['add_grants', 'revoke_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210226 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 210226 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210226 | INFO: Adding to table user_groups item mantainers: {'users': []}
+TPV | 20230415 210226 | INFO: Removing from table user_groups item mantainers.
+TPV | 20230415 210228 | DEBUG: User: None
+TPV | 20230415 210228 | WARNING: User user1 already exists.
+TPV | 20230415 210228 | DEBUG: User: None
+TPV | 20230415 210228 | WARNING: Login user1 with wrong password.
+TPV | 20230415 210228 | DEBUG: User: None
+TPV | 20230415 210228 | INFO: User logged user1.
+TPV | 20230415 210228 | DEBUG: User: user1
+TPV | 20230415 210228 | DEBUG: User: None
+TPV | 20230415 210228 | WARNING: User admin already exists.
+TPV | 20230415 210228 | INFO: User logged admin.
+TPV | 20230415 210228 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 210228 | INFO: Editing table users item admin: {'grants': ['revoke_grants', 'add_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 210228 | INFO: Editing table users item user1: {'grants': ['revoke_grants', 'add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210228 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 210228 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210228 | INFO: Adding to table user_groups item mantainers: {'users': []}
+TPV | 20230415 210228 | INFO: Removing from table user_groups item mantainers.
+TPV | 20230415 210303 | DEBUG: User: None
+TPV | 20230415 210303 | WARNING: User user1 already exists.
+TPV | 20230415 210303 | DEBUG: User: None
+TPV | 20230415 210303 | WARNING: Login user1 with wrong password.
+TPV | 20230415 210303 | DEBUG: User: None
+TPV | 20230415 210303 | INFO: User logged user1.
+TPV | 20230415 210303 | DEBUG: User: user1
+TPV | 20230415 210303 | DEBUG: User: None
+TPV | 20230415 210303 | WARNING: User admin already exists.
+TPV | 20230415 210303 | INFO: User logged admin.
+TPV | 20230415 210303 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 210303 | INFO: Editing table users item admin: {'grants': ['revoke_grants', 'add_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 210303 | INFO: Editing table users item user1: {'grants': ['revoke_grants', 'add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210303 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 210303 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210303 | INFO: Adding to table user_groups item mantainers: {'users': []}
+TPV | 20230415 210303 | INFO: Adding ['user1'] to group mantainers.
+TPV | 20230415 210303 | INFO: Removing from table user_groups item mantainers.
+TPV | 20230415 210433 | DEBUG: User: None
+TPV | 20230415 210433 | WARNING: User user1 already exists.
+TPV | 20230415 210433 | DEBUG: User: None
+TPV | 20230415 210433 | WARNING: Login user1 with wrong password.
+TPV | 20230415 210433 | DEBUG: User: None
+TPV | 20230415 210433 | INFO: User logged user1.
+TPV | 20230415 210433 | DEBUG: User: user1
+TPV | 20230415 210433 | DEBUG: User: None
+TPV | 20230415 210433 | WARNING: User admin already exists.
+TPV | 20230415 210433 | INFO: User logged admin.
+TPV | 20230415 210433 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 210433 | INFO: Editing table users item admin: {'grants': ['add_grants', 'revoke_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 210433 | INFO: Editing table users item user1: {'grants': ['revoke_grants', 'add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210433 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 210433 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210433 | INFO: Adding to table user_groups item mantainers: {'users': []}
+TPV | 20230415 210433 | INFO: Adding ['user1'] to group mantainers.
+TPV | 20230415 210433 | INFO: Editing table user_groups item mantainers: {'users': ['user1']}
+TPV | 20230415 210433 | INFO: Removing from table user_groups item mantainers.
+TPV | 20230415 210445 | DEBUG: User: None
+TPV | 20230415 210445 | WARNING: User user1 already exists.
+TPV | 20230415 210445 | DEBUG: User: None
+TPV | 20230415 210445 | WARNING: Login user1 with wrong password.
+TPV | 20230415 210445 | DEBUG: User: None
+TPV | 20230415 210445 | INFO: User logged user1.
+TPV | 20230415 210445 | DEBUG: User: user1
+TPV | 20230415 210445 | DEBUG: User: None
+TPV | 20230415 210445 | WARNING: User admin already exists.
+TPV | 20230415 210445 | INFO: User logged admin.
+TPV | 20230415 210445 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 210445 | INFO: Editing table users item admin: {'grants': ['add_grants', 'revoke_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 210445 | INFO: Editing table users item user1: {'grants': ['add_grants', 'revoke_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210445 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 210445 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210445 | INFO: Adding to table user_groups item mantainers: {'users': []}
+TPV | 20230415 210445 | INFO: Adding ['user1'] to group mantainers.
+TPV | 20230415 210445 | INFO: Editing table user_groups item mantainers: {'users': ['user1']}
+TPV | 20230415 210546 | DEBUG: User: None
+TPV | 20230415 210546 | WARNING: User user1 already exists.
+TPV | 20230415 210546 | DEBUG: User: None
+TPV | 20230415 210546 | WARNING: Login user1 with wrong password.
+TPV | 20230415 210546 | DEBUG: User: None
+TPV | 20230415 210546 | INFO: User logged user1.
+TPV | 20230415 210546 | DEBUG: User: user1
+TPV | 20230415 210546 | DEBUG: User: None
+TPV | 20230415 210546 | WARNING: User admin already exists.
+TPV | 20230415 210546 | INFO: User logged admin.
+TPV | 20230415 210546 | INFO: Adding grants to users: ['admin', 'user1'] and groups: [] to do ['add_grants', 'revoke_grants']
+TPV | 20230415 210546 | INFO: Editing table users item admin: {'grants': ['add_grants', 'revoke_grants'], 'password': '79941e9b1818bf3b4e3e1873a26027a5'}
+TPV | 20230415 210546 | INFO: Editing table users item user1: {'grants': ['add_grants', 'revoke_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210546 | INFO: Revoking grants to users: ['user1'] and groups: [] to do {'revoke_grants'}
+TPV | 20230415 210546 | INFO: Editing table users item user1: {'grants': ['add_grants'], 'password': 'f2c153ccc81a51c7a156163a58c78fd6'}
+TPV | 20230415 210546 | INFO: Removing from table user_groups item mantainers.
+TPV | 20230415 210546 | INFO: Adding to table user_groups item mantainers: {'users': []}
+TPV | 20230415 210546 | INFO: Adding ['user1'] to group mantainers.
+TPV | 20230415 210546 | INFO: Editing table user_groups item mantainers: {'users': ['user1']}
+TPV | 20230415 210546 | INFO: Adding grants to users: [] and groups: ['mantainers'] to do ['create_group', 'add_users_to_group']
+TPV | 20230415 210546 | INFO: Editing table user_groups item mantainers: {'users': ['user1'], 'grants': ['add_users_to_group', 'create_group']}
